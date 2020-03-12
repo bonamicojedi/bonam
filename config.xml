@@ -1,25 +1,32 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+  
+<?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns="http://www.w3.org/ns/widgets"
 		xmlns="http://www.w3.org/ns/widgets"
 		xmlns:gap="http://phonegap.com/ns/1.0"
 		id="br.com.bonamico.bonapk"
-		version="1.0.0" />
-    <name>
-        BONAPK
-    </name>
-    <description>
-        BONAPK
-    </description>
-    <author>
-        Bonamico
-    </author>
+		version="1.0.0">
 
-    <preference name="orientation" value="portrait" />
-    <preference name="fullscreen" value="true" />
-    <preference name="permissions" value="none" />
-    <platform name="android" />
 
-    <icon src="icon.png" />
-    <plugin name="cordova-plugin-splashscreen" />
-    <splash src="splash.png" />
+<name>
+	Bonapk
+</name>
+
+<description>
+	BONAPK
+</description>
+
+<author email="jurassiccoxa@gmail.com">
+BONAMICO
+</author>
+
+
+<preference name="orientation" value="portrait" />
+<preference name="fullscreen" value="true" />
+<preference name="permissions" value="none" />
+<platform name="android"/>
+
+<icon src="icon.png" />
+<plugin name="cordova-plugin-splashscreen" />
+<splash src="splash.png"/>
+
 </widget>
