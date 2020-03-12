@@ -7,7 +7,7 @@
 
 <description> Aplicativo do Bonamico. </description>
 
-<author email="contato@profjr.com.br" href="http://profjr.com.br">Bonamico </author>
+<author> Bonamico </author>
 
 <preference value="portrait" name="orientation"/>
 
